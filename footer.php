@@ -4,7 +4,7 @@
       <img src="images/logo4.png" alt="" width="170" height="60"/>
     </div>
     <div class="center_footer"> 
-       All Rights Reserved 2016<br/>
+       All Rights Reserved 2021<br/>
        <img src="images/payment.gif" alt="" />
     </div>
     <div class="right_footer"> 
